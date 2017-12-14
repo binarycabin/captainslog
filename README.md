@@ -2,7 +2,6 @@
 
 # Captain's Log
 ## A Tailwind CSS Wordpress Starter Theme
-===
 
 Captain's Log is a super barebones starterkit pulled right from the https://underscores.me/ starter theme with [Laravel Mix](https://github.com/JeffreyWay/laravel-mix) and [TailwindCSS](https://tailwindcss.com) installed
 
